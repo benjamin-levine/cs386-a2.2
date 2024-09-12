@@ -8,4 +8,7 @@
 
 
 **Zachary Garza**
-I'm a student with an afro that likes to play guitar hero and hang out with friends.
+I'm a student with an afro that likes:
+- acoustic Guitar
+- playing Guitar Hero
+- and hanging out with friends!
